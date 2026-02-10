@@ -35,52 +35,35 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Learning languages
       link:
 
 
-    - item: Snowboarding
+    - item: Singing
       link:
 
 
-    - item: Cooking
+    - item: Playing the viola
       link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+   I am a fourth-year student at Northern Illinois University majoring in Biological Sciences and Public Health, with an emphasis in Health Administration and a minor in Chemistry. I am a McKearn Fellow at NIU, conducting molecular biology research in the Devergne Lab. In my final year, I have been interning at NIU's Office of Innovation. I also work part time as a medical assistant for an allergy/immunology practice.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: BS in Biological Sciences
+    university: Northern Illinois University
+    time: 2022 - 2026
+    details: | 
+      Chemistry Minor
+  - degree: BS in Public Health
+    university: Northern Illinois University
+    time: 2022 - 2026
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Emphasis in Health Administration
 
 experiences:
   title: Experiences
