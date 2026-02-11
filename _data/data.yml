@@ -64,7 +64,6 @@ education:
     time: 2022 - 2026
     details: |
       Emphasis in Health Administration
-
 experiences:
   title: Experiences
   info:
@@ -83,13 +82,11 @@ experiences:
     company: NIU Huskie Food Pantry
     details: |
       Lead weekly pantry shifts when students and staff come to shop
-
 publications:
   - title: clifford B.4.1 , an allele of CG1603 , causes tissue overgrowth in the Drosophila melanogaster eye.
     link: "https://pubmed.ncbi.nlm.nih.gov/37680216/"
     authors: Nowaskie, R. R., Kitch, A., Adams, A., Anandaraj, A., Apawan, E., Bañuelos, L., Betz, C. J., Bogunia, J. M., Buechlein, N., Burns, M. R., Collier, H. A., Collins, Z., Combs, K., Dakarian, V. D., Daniel, A., De Jesus Iii, C. M., Erickson, J. D., Estrada, B., Estrada, K., Fields, S., … Merkle, J. A. 
-
-presentation:
+presentations:
   - title: "Flotillins are Required for the Polarized Deposition of Basement Membrane Proteins in Epithelial Cells"
     authors: Dakarian, V.D., Shah, H., Austin, J., Devergne, O.
     conferences: Drosophila Midwest, Chicago Area Undergraduate Research Symposium, NIU Conference on Undergraduate Research
